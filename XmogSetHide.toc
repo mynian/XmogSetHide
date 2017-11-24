@@ -1,0 +1,6 @@
+## Interface: 70302
+## Title: XmogSetHide
+## Notes: Hides the Sets tab on the Xmog Vendor
+## Version: 0.0.1
+
+XmogSetHide.lua
