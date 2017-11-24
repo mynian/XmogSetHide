@@ -1,0 +1,1 @@
+WardrobeCollectionFrameTab2:Hide()
